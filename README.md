@@ -1,7 +1,9 @@
 # nextJS serverless
 
 ## 미리보기
-[https://d1icf8x52kpo78.cloudfront.net](https://d1icf8x52kpo78.cloudfront.net)
+* [https://d1icf8x52kpo78.cloudfront.net](https://d1icf8x52kpo78.cloudfront.net)
+* [https://d1icf8x52kpo78.cloudfront.net/ssr](https://d1icf8x52kpo78.cloudfront.net/ssr)
+* [https://d1icf8x52kpo78.cloudfront.net/slug](https://d1icf8x52kpo78.cloudfront.net/slug)
 
 ## 개발 스택
 
